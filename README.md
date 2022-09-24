@@ -7,7 +7,7 @@ In this RC Phase shift oscillator, the attenuation that is introduced by this fe
 <br><br>
 The output waveform of the Op-amp
 ![waveform of RCPS oscillator](https://user-images.githubusercontent.com/111141190/192093662-e5f0101d-8c0d-42de-90a4-f107c41450ad.jpg)
-
+This Circuit will provide a unity gain only at one particular frequency and at only one particular frequency only the overall phase shift of the circuit will be equal to zero and if three stages are used then this frequency f can be given by the expression 1/(2piRC*2.45), where R and C are resistor and capacitror of the feedback path respectively. Here I am taking R=650ohm and C=0.1micro Farad, by hand calculation I am getting 999.6 Hz but from the wavefrom I am getting 995.28 Hz. The error is 0.4% in frequency of oscillation.
 <br><br>
 The stable output waveform of the Op-amp
 ![Frequency and amplitude of waveform of RCPS oscillator](https://user-images.githubusercontent.com/111141190/192093646-6ddf4d81-79f4-4133-83e1-a5e23d8ce24a.jpg)
