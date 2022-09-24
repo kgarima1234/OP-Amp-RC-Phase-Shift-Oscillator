@@ -1,0 +1,2 @@
+# OP-Amp-RC-Phase-Shift-Oscillator
+An electrical oscillator circuit that generates sine waves is known as a phase shift oscillator. Either a transistor or an Op-amp can be used to design the inverting amplifier. These phase shift oscillators are typically employed as audio oscillators. In an RC phase shift oscillator, the RC network and the Op-amp each produce a 180 degree phase shift, resulting in a 360 degree inversion of the wave.
